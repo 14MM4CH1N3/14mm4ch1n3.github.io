@@ -1,8 +1,8 @@
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-  - jekyll-remote-theme
+theme: minima
+  skin: dark
 title: ~
 author:
   name: Nate
   email: "14MM4CH1N3@pm.me"
 github_username: 14MM4CH1N3
+description: 😎
