@@ -3,7 +3,7 @@ plugins:
   - jekyll-remote-theme
 minima:
   skin: dark
-title:  Pages
+title:  Home
 author:
   name: 14MM4CH1N3
   email: "14MM4CH1N3@pm.me"

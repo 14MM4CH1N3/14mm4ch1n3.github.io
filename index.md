@@ -1,3 +1,4 @@
 ---
-title: ![Awesome Sunglasses Guy](/14mm4ch1n3.github.io/assets/sunglasses-bluemoji.png)
+title: ![Awesome Sunglasses Guy](/images/sunglasses-bluemoji.png)
 ---
+Welcome to my "blog"
