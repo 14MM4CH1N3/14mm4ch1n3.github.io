@@ -1,12 +1,6 @@
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
-minima:
-  skin: dark
-  social_links: 
-    - {user_url: "https://github.com/14MM4CH1N3" }
+theme: hacker
 title:  Home
 author:
   name: Nate
   email: "14MM4CH1N3@pm.me"
-description: This is for random interesting things I think to post
+github_username: 14MM4CH1N3
