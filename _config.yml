@@ -1,6 +1,10 @@
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: jekyll/minima
 plugins:
-- jekyll-remote-theme
-title: My Pages
-author: https://github.com/14MM4CH1N3
-description: \![green emoji guy with sunglasses, a goatee, and a toothpick in his mouth](/14mm4ch1n3.github.io/docs/assets/sunglasses-bluemoji.png)
+  - jekyll-remote-theme
+minima:
+  skin: dark
+title:  Pages
+author:
+  name: 14MM4CH1N3
+  email: "14MM4CH1N3@pm.me"
+description: Random interesting things
