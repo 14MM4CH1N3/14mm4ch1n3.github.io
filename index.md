@@ -1,4 +1,4 @@
 ---
-title: [Awesome Site](https://en.wikipedia.org/wiki/Trollface)
+title: Awesome Site
 ---
 Welcome to my "blog"
