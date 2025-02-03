@@ -4,7 +4,7 @@ plugins:
 minima:
   skin: dark
   social_links: 
-    - { platform: github,  user_url: "https://github.com/14MM4CH1N3" }
+    - {user_url: "https://github.com/14MM4CH1N3" }
 title:  Home
 author:
   name: Nate
