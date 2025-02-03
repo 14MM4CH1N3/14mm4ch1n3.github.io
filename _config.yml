@@ -2,9 +2,7 @@ theme: minima
 minima:
   date_format: "%Y-%m-%d"
   theme: dark
-title: ~
-author:
-  name: Nate
-  email: "14MM4CH1N3@pm.me"
+title: Home
+author: Nate
 github_username: 14MM4CH1N3
-description: 😎
+description: 14MM4CH1N3@pm.me
