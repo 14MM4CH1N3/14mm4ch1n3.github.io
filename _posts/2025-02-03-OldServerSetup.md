@@ -25,7 +25,7 @@ date: 2025-02-03
 - The main OS I was using, [openmediavault](https://github.com/openmediavault/openmediavault), was changed for [truenas scale](https://www.truenas.com/truenas-scale/) as I have a lot more drives and wanted a ZFS centric setup since the long term integrity of data is one of my #1 priorities
 - The switch I had was changed to a Mikrotik switch with more ports, I wanted a managed switch to mess with, and I also wanted fiber connectivity
 	- this was also coupled with getting a new patch panel so I could have all of the ports on the switch populated
-- The router now has a checkpoint fiber module to connect to the switch and then to a gigabic nic on the new server
+- The router now has a checkpoint fiber module to connect to the switch and then to a 10 gigabic nic on the switch, so it can be fiber from the server to the switch, and then from the switch to the router
 - The startech outlet is gone and everything plugs directly into the UPS instead
 - The services I was using for docker update notifications, that being [diun](https://github.com/crazy-max/diun) with a [gotify server](https://github.com/gotify/server) was condensed into one application, that being [WUD](https://github.com/getwud/wud)
 - [pi-hole](https://github.com/pi-hole) was swapped for [adguard home](https://github.com/AdguardTeam/AdguardHome) as this allows me to run adguard home, therefore the dns server, on my router instead of my server
