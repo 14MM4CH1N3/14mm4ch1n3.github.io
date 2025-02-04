@@ -4,7 +4,7 @@ title: Current Server Setup
 
 # picture of the setup:
 
-![JMCD Image](/docs/assets/JCMDLAB.jpeg)
+![JMCD Image](/docs/assets/jmcdlab.jpeg)
 
 # Items From Left to Right - Top to Bottom
 
@@ -37,7 +37,7 @@ Notes:
 |[The Lounge](https://github.com/thelounge/thelounge)|IRC Client|
 |[Planka]((https://github.com/plankanban/planka))|Kanban Board for Task Tracking|
 |[Speedtest Tracker](https://github.com/alexjustesen/speedtest-tracker)|Hourly Internet Speed Tests|
-|[qBittorrent](https://github.com/qbittorrent/qBittorrent/) + [VueTorrent WebUI](https://github.com/VueTorrent/VueTorrent)|(Torrent Client, mostly used with the [Internet Archive](https://archive.org/)|
+|[qBittorrent](https://github.com/qbittorrent/qBittorrent/) + [VueTorrent WebUI](https://github.com/VueTorrent/VueTorrent)|Torrent Client, mostly used with the [Internet Archive](https://archive.org/)|
 |[Joplin Sync Server](https://github.com/laurent22/joplin)|Notes Syncing|
 |[Nginx Proxy Manager](https://github.com/NginxProxyManager/nginx-proxy-manager)|Reverse Proxy|
 |[Mumble](https://github.com/mumble-voip/mumble-docker)|Voip Server|
