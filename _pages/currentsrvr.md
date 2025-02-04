@@ -7,6 +7,7 @@ title: Current Server Setup
 ![JMCD Image](/docs/assets/JCMDLAB.jpeg)
 
 # Items From Left to Right - Top to Bottom
+
 |Object|What it is|
 |------|----------|
 |Switch|Mikrotik CSS326-24G-2S+RM|
@@ -20,6 +21,7 @@ Notes:
 - More information about the server build can be found in this post, TLDR: running Truenas Scale, has a AMD EPYC 7402p CPU, 256 of DDR4 ECC Ram, Supermicro H11SSL-i motherboard, 144TB Raw storage(12x 12TB), RTX 3050 (for cuda w/ ai), and a 10gbe nic
 
 ### Services being hosted in no particular order, everything is dockerized, the host OS is Truenas Scale:
+
 |Service|Usecase|
 |-------|-------|
 |[Portainer](https://www.portainer.io/)| Docker Management|
@@ -45,8 +47,10 @@ Notes:
 |[Navidrome](https://github.com/navidrome/navidrome)|Local Music Server |
 
 ### On the OPNsense router (not docker):
+
 - The router runs [OPNsense](https://opnsense.org/)
 - [Adguard Home](https://github.com/AdguardTeam/AdguardHome) for DNS ad blocking
 
 ### Other things on the server not dockerized:
+
 - Multiple Debian VMs for testing various software and running scripts not meant to run on the base truenas scale OS
