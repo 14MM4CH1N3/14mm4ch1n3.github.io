@@ -9,7 +9,7 @@ title: About Me
 - I enjoy all sorts of technology
     - Especially learning new things about it
     - Cybersecurity is super interesting in this aspect
-- My main hobby is playing video games, and I generally enjoy everything except for games in the 4X genre
+- I love Linux and the whole FOSS ecosystem, Fedora is the only distro out of the numerous I've used that fits my needs and is the only distro I recommend
 - I like to be very straight and to the point
 - My favorite image in the whole world is trollface
 ![trollface](https://upload.wikimedia.org/wikipedia/en/7/73/Trollface.png)
