@@ -8,5 +8,6 @@ github_username: 14MM4CH1N3
 description: Random interesting things I think to publish
 header_pages:
   - _pages/about.md
+  - _pages/currentsrvr.md
 include:
     - _pages
