@@ -6,3 +6,5 @@ title: 😎 Blog
 author: Nate - 14MM4CH1N3@pm.me
 github_username: 14MM4CH1N3
 description: Random interesting things I think to publish
+header_pages:
+  - _pages/about.md
