@@ -4,7 +4,7 @@ title: Current Server Setup
 
 # picture of the setup:
 
-![JMCD Image](/docs/assets/jmcdlab.jpeg)
+![JMCD Image](/docs/assets/complete_lab_jcmd.jpeg)
 
 # Items From Left to Right - Top to Bottom
 
