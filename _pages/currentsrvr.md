@@ -18,7 +18,7 @@ title: Current Server Setup
 
 Notes:
 - The rack is missing because my car is small and I did not feel like dismantling it and bringing it with me to college for my last semester, I have a 24 port patch panel on it and it is currently sitting at home (picture of it in the old DELLR430 folder)
-- More information about the server build can be found in [this post](_posts/2025-02-03-NewServerSetup.md), TLDR: running Truenas Scale, jmcd chassis (chinese and bought off aliexpress and waited over a month) has a AMD EPYC 7402p CPU, 256 of DDR4 ECC Ram, Supermicro H11SSL-i motherboard, 144TB Raw storage(12x 12TB), RTX 3050 (for cuda w/ ai), and a 10gbe nic
+- More information about the server build can be found in [this post](/_posts/2025-02-03-NewServerSetup.md), TLDR: running Truenas Scale, jmcd chassis (chinese and bought off aliexpress and waited over a month) has a AMD EPYC 7402p CPU, 256 of DDR4 ECC Ram, Supermicro H11SSL-i motherboard, 144TB Raw storage(12x 12TB), RTX 3050 (for cuda w/ ai), and a 10gbe nic
 
 ### Services being hosted in no particular order, everything is dockerized, the host OS is Truenas Scale:
 
