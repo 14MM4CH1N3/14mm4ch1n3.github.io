@@ -3,9 +3,10 @@ title: Old Dell R430 Setup
 date: 2025-02-03
 ---
 # Picture of the setup:
-![Dell R430 image](/14mm4ch1n3.github.io/images/DELLR430LAB.png)
+![Dell R430 image](14mm4ch1n3.github.io/blob/main/images/DELLR430LAB.png)
 
 # Items From Top to Bottom
+
 |Object|What it is|
 |---|---|
 |Monitor|Random Acer Monitor|
