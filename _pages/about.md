@@ -13,4 +13,4 @@ title: About Me
 - I like to be very straight and to the point
 - My favorite image in the whole world is the trollface
 
-![trollface](https://upload.wikimedia.org/wikipedia/en/7/73/Trollface.png)
+![trollface](docs/assets/funny_trollface.png)
