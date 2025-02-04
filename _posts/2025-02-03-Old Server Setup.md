@@ -20,7 +20,7 @@ date: 2025-02-03
 |UPS|CyberPower CP1500PFCRM2U UPS|
 |Rack|StarTech.com 12U Rack|
 
-# Major Differences between this and the newer JCMD Build
+# Major Differences between this and the newer custom 12 drive bay Build
 - I got rid of the chromebox as the newer machine that I built can do VMs a lot better than the r430, so I condensed everything that was on the chromebox onto a VM on the new server
 - The main OS I was using, [openmediavault](https://github.com/openmediavault/openmediavault), was changed for [truenas scale](https://www.truenas.com/truenas-scale/) as I have a lot more drives and wanted a ZFS centric setup since the long term integrity of data is one of my #1 priorities
 - The switch I had was changed to a Mikrotik switch with more ports, I wanted a managed switch to mess with, and I also wanted fiber connectivity
