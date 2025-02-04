@@ -3,7 +3,7 @@ title: Old Dell R430 Setup
 date: 2025-02-03
 ---
 # Picture of the setup:
-![Dell R430 image](./assets/DELLR430LAB.png)
+![Dell R430 image](/docs/assets/DELLR430LAB.png)
 
 # Items From Top to Bottom
 
