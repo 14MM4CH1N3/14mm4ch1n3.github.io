@@ -47,6 +47,7 @@ Notes:
 |[Navidrome](https://github.com/navidrome/navidrome)|Local Music Server|
 |[PairDrop](https://github.com/schlagmichdoch/PairDrop)|Local File Sharing like AirDrop from Apple|
 |[Mealie](https://github.com/mealie-recipes/mealie)|Recipie Maker/Tracker/Storage|
+|[Hoarder](https://github.com/hoarder-app/hoarder)|Local Website Archiver|
 
 ### On the OPNsense router (not docker):
 
