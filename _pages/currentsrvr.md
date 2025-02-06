@@ -44,7 +44,9 @@ Notes:
 |[Screego](https://github.com/screego/server)|Screen Sharing|
 |[Filebrowser](https://github.com/filebrowser/filebrowser)|WebUI for File Browsing|
 |[FreshRSS](https://github.com/FreshRSS/FreshRSS)|RSS Feed Reader|
-|[Navidrome](https://github.com/navidrome/navidrome)|Local Music Server |
+|[Navidrome](https://github.com/navidrome/navidrome)|Local Music Server|
+|[PairDrop](https://github.com/schlagmichdoch/PairDrop)|Local File Sharing like AirDrop from Apple|
+|[Mealie](https://github.com/mealie-recipes/mealie)|Recipie Maker/Tracker/Storage|
 
 ### On the OPNsense router (not docker):
 
