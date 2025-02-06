@@ -35,7 +35,7 @@ Notes:
 |[Vikunja](https://github.com/go-vikunja/vikunja)|Todo Task Tracking|
 |[Baikal](https://github.com/sabre-io/Baikal)|CalDAV + CardDAV server|
 |[The Lounge](https://github.com/thelounge/thelounge)|IRC Client|
-|[Planka]((https://github.com/plankanban/planka))|Kanban Board for Task Tracking|
+|[Planka](https://github.com/plankanban/planka)|Kanban Board for Task Tracking|
 |[Speedtest Tracker](https://github.com/alexjustesen/speedtest-tracker)|Hourly Internet Speed Tests|
 |[qBittorrent](https://github.com/qbittorrent/qBittorrent/) + [VueTorrent WebUI](https://github.com/VueTorrent/VueTorrent)|Torrent Client, mostly used with the [Internet Archive](https://archive.org/)|
 |[Joplin Sync Server](https://github.com/laurent22/joplin)|Notes Syncing|
