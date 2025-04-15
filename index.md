@@ -1,1 +1,1 @@
-Welcome to my "blog", the most interesting thing on here is probably my server setup
+Welcome to my "blog", this is highly in progress and college has been diverting my attention from finishing this, however my server stuff is on here so you can see that!
