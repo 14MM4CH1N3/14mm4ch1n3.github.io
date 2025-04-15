@@ -1,1 +1,1 @@
-Welcome to my "blog", this is highly in progress and college has been diverting my attention from finishing this, however my server stuff is on here so you can see that!
+Welcome to my "blog", this is highly in progress and college has been diverting my attention from finishing this, however my server stuff is on here so you can see that! (the blank posts are dated as to when I wanted to write it, but things keep popping up)
